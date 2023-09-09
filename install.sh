@@ -1,3 +1,3 @@
 #!/bin/sh -x
 
-ln -s /srv/files.schmit.net/nginx.conf /etc/nginx/conf.d/files.schmit.net.conf
+ln -s /srv/schmit.net/nginx.conf /etc/nginx/conf.d/schmit.net.conf
