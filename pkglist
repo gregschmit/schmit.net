@@ -2,5 +2,4 @@ nginx
 certbot
 python3-certbot-nginx
 
-redis
 postgresql

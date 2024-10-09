@@ -1,6 +1,6 @@
 # Hyperion
 
-My personal SSH, postgres, redis, network, and file server.
+My personal SSH, postgres, network, and file server.
 
 ## Security
 
